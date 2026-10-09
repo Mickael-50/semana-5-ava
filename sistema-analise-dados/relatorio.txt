@@ -1,0 +1,18 @@
+=======================================================
+RELATÓRIO DE ANÁLISE DE DADOS
+=======================================================
+Total de registros analisados: 4
+Registros válidos: 2
+Registros inválidos: 2
+Taxa de aprovação: 50.00%
+
+REGISTROS VÁLIDOS
+-------------------------------------------------------
+Linha 2: e-mail=ana.silva@email.com | CPF=123.456.789-00 | telefone=(11) 91234-5678 | data=15/03/2004
+Linha 4: e-mail=carla_souza@exemplo.com | CPF=987.654.321-00 | telefone=(21) 3456-7890 | data=01/12/2023
+
+REGISTROS INVÁLIDOS
+-------------------------------------------------------
+Linha 3: campos inválidos: email, data
+Linha 5: campos inválidos: email, cpf, telefone, data
+=======================================================
